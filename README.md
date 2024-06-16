@@ -1,3 +1,5 @@
+<img  src="https://media.licdn.com/dms/image/D5616AQGLypu5PxqC2A/profile-displaybackgroundimage-shrink_350_1400/0/1718563751319?e=1724284800&v=beta&t=WpOp4vzH1ylgH8jQPxCCWk_0VlZAQtW-b9qKHcsoQrk">
+
 # Hi there, I'm Vihanga Athukorala! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web applications and software development. Here, you'll find a collection of my projects, contributions, and experiments as I continue to explore the ever-evolving world of technology.
